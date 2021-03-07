@@ -12,6 +12,10 @@ File: `klarchiv_01975_daily_akt/*`
 
 https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip
 
+Tagesmittel der Temparatur: TMK
+tgl. Niederschlagshoehe: RSK
+Schneehoehe Tageswert: SHK_TAG
+
 ## Corona Numbers Hamburg
 
 File: `d-inzidenz-zum-download-service.xlsx`

@@ -9,6 +9,8 @@ python = "^3.9"
 pandas = "^1.2.2"
 jirafs-matplotlib = "^1.0.3"
 jupyterlab = "^3.0.9"
+xlrd = "^2.0.1"
+openpyxl = "^3.0.6"
 
 [tool.poetry.dev-dependencies]
 
