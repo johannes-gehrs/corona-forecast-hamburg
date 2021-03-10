@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1975;Hamburg-Fuhlsbüttel;10;53.64;11.7;2;19461101;19680711;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
 1975;Hamburg-Fuhlsbüttel;10;53.64;13;2;19680712;19950904;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
 1975;Hamburg-Fuhlsbüttel;9.99;53.63;14.05;2;19950905;19950930;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
-1975;Hamburg-Fuhlsbüttel;9.99;53.63;14.05;2;19951001;20210306;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2021 --  Deutscher Wetterdienst  --
+1975;Hamburg-Fuhlsbüttel;9.99;53.63;14.05;2;19951001;20210309;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 10.03.2021 --  Deutscher Wetterdienst  --

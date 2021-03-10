@@ -10,7 +10,7 @@ https://www.google.com/covid19/mobility/data_documentation.html?hl=en
 
 File: `klarchiv_01975_daily_akt/*`
 
-https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip
+https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/recent/
 
 Tagesmittel der Temparatur: TMK
 tgl. Niederschlagshoehe: RSK
